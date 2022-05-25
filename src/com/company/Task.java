@@ -1,7 +1,5 @@
 package com.company;
 
-//7.Удалить из списка все элементы, индекс которых (отсчет начинаем с 0) соответствует какому-либо числу Фибоначчи.
-
 public class Task {
     public static SimpleLinkedList<Integer> Process(SimpleLinkedList<Integer> list) throws Exception, SimpleLinkedList.SimpleLinkedListException {
         int k = 0;
